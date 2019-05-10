@@ -1,0 +1,16 @@
+body{
+    background-color:#DE1264;
+    text-align:center;
+    padding-bottom: 10px;
+}
+#weerHier{
+     text-align: center;
+      background: linear-gradient(90deg, rgba(230, 29, 96, 1) 11%, rgba(204, 0, 204, 1) 31%, rgba(191, 0, 205, 1) 46%, rgba(204, 0, 204, 1) 71%, rgba(230, 29, 96, 1) 90%);
+      max-width: max-content;
+      margin: 0 auto;
+      margin-top: 50px;
+      border-radius: 1em;
+      padding: 1em;
+      border:  10px outset;
+      color: black;
+}
